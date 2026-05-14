@@ -1,4 +1,4 @@
-# 
+# Enhance Affinity Designer for macOS with Affinity Designer for macOS vip Script - auto-retouch and AI upscaling, the #1 script. Includes auto-retouch and AI upscaling for a
 
 
 
